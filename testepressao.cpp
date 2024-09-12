@@ -17,6 +17,7 @@ int main ()
   auto Tc = 304.20;
   auto omega = 0.2240; 
 
+auto b =2;
  // criar loop para V
   T = 280.;
 
